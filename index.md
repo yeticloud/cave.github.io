@@ -1,5 +1,7 @@
 <img src="logo.png" width="300px">
 
+Find Cave on Github @ [github.com/yeticloud/cave](https://github.com/yeticloud/cave)
+
 ### A cloud-native, distributed, master-less, secrets-capable key-value database
 
 # What is CAVE?
