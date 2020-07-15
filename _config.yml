@@ -1,8 +1,11 @@
 title: CAVE
 description: Cloud-native, distributed, master-less, secret-capable key-value database
-google_analytics: 
+google_analytics: UA-155985539-2
 show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
+
+github:
+  repository_url: https://github.com/yeticloud/cave
