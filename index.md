@@ -1,8 +1,8 @@
 <img src="logo.png" width="300px">
 
-Find Cave on Github @ [github.com/yeticloud/cave](https://github.com/yeticloud/cave)
-
 ### A cloud-native, distributed, master-less, secrets-capable key-value database
+
+Find Cave on Github @ [github.com/yeticloud/cave](https://github.com/yeticloud/cave)
 
 # What is CAVE?
 Cave is a reaction to the technologies on the market in both COTS and OSS worlds. We identified a need to have a fast, reliable, cloud-native key-value database that doesn't require a lot of configuration or workarounds to make a master/worker model...work. 
