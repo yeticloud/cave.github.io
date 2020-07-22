@@ -1,7 +1,7 @@
 title: CAVE
 description: Cloud-native, distributed, master-less, secret-capable key-value database
 google_analytics: UA-155985539-2
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-cayman
 
 gems:
